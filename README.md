@@ -1,4 +1,4 @@
-Fraud Detection on Bank Payments Using Machine Learning
+## Fraud Detection on Bank Payments Using Machine Learning
 
 A machine learning project focused on detecting fraudulent transactions in bank payment data. This repository includes data preprocessing, model training, evaluation, and insights aimed at improving the accuracy and reliability of fraud detection systems.
 
